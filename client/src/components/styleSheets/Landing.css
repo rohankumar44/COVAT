@@ -1,0 +1,9 @@
+.slider{
+    height:380px !important
+}
+.slider .slides {
+    height: 65vh !important
+}
+.slider .slides li img{
+height: 65vh
+}
